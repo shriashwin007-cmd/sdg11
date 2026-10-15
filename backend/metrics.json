@@ -1,0 +1,10 @@
+{
+  "model": "MobileNetV2 transfer learning on PlantVillage (HF mirror)",
+  "dataset": "BrandonFors/Plant-Diseases-PlantVillage-Dataset",
+  "image_size": 192,
+  "classes": 38,
+  "labels_file": "labels.txt",
+  "validation_accuracy": 0.9304,
+  "independent_test_accuracy": 0.9358,
+  "note": "Accuracy measured on held-out data, never on training data."
+}
